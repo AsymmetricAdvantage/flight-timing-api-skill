@@ -1,0 +1,14 @@
+{
+  "name": "fuji-daily",
+  "description": "Free travel tools by Fuji Daily, in partnership with Travelpayouts.",
+  "owner": {
+    "name": "Fuji Daily"
+  },
+  "plugins": [
+    {
+      "name": "flight-timing-api-skill",
+      "source": "./plugins/flight-timing-api-skill",
+      "description": "Find the cheapest time to fly any route, from cached fares across 100+ booking engines."
+    }
+  ]
+}

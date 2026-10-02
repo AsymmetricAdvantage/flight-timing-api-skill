@@ -1,0 +1,11 @@
+{
+  "name": "flight-timing-api-skill",
+  "description": "Find the cheapest time to fly any route, from cached fares across 100+ booking engines, with a handoff to a live search.",
+  "version": "2.2.0",
+  "author": {
+    "name": "Fuji Daily"
+  },
+  "license": "MIT",
+  "homepage": "https://fujidaily.com",
+  "repository": "https://github.com/asymmetricadvantage/flight-timing-api-skill"
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Flight Timing"
+  short_description: "Cheapest time to fly any route, and cheap fares"
+  brand_color: "#0B6B8F"
+  default_prompt: "Use the flight-timing-api-skill skill to find the cheapest time to fly this route and hand off to live prices."
+policy:
+  allow_implicit_invocation: true
